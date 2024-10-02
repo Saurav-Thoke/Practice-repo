@@ -5,5 +5,6 @@ public class ServiceClass {
     public void getGreeting()
     {
         System.out.println("Hello every one....");
+        System.out.println("Good Morning");
     }
 }
